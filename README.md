@@ -1,0 +1,2 @@
+# SteamOS-intel-TDP-edit-Service
+A tool for changing PL1 and PL2 values ​​for Intel processors in SteamOS(for my MSI Trident 3 10th)
